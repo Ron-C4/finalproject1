@@ -303,7 +303,7 @@ footer{
 /*-------------------------End of homepage ---------------------------*/
 
 .about-body{
-   background-image: url('/images/wood1.jpg');
+   background-image: url('../images/wood1.jpg');
    background-repeat: no-repeat;
    background-attachment: fixed;
    background-size: cover; 
@@ -355,7 +355,7 @@ h6{
 /*-------------------------End of about page ---------------------------*/
 
 .contact-body{
-    background-image: url('/images/forest2.jpg');
+    background-image: url('../images/forest2.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover; 
